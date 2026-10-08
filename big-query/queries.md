@@ -1,4 +1,4 @@
-# big_query/queries
+# big-query/queries
 
 Databases are one of the core utilities I use daily as a backend developer.
 
